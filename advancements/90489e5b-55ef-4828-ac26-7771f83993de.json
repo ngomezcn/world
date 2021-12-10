@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-12-10 18:41:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-12-05 18:11:45 +0100"
@@ -344,6 +350,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2021-12-07 21:31:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2021-12-10 18:42:41 +0100"
     },
     "done": true
   },
@@ -812,6 +824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-12-10 18:41:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-12-05 18:04:25 +0100"
@@ -863,6 +881,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2021-12-08 15:41:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-12-10 18:41:49 +0100"
     },
     "done": true
   },
@@ -1203,7 +1227,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-12-06 12:25:37 +0100",
-      "minecraft:nether_wastes": "2021-12-05 18:49:08 +0100"
+      "minecraft:nether_wastes": "2021-12-05 18:49:08 +0100",
+      "minecraft:basalt_deltas": "2021-12-10 17:01:41 +0100"
     },
     "done": false
   },
