@@ -543,6 +543,7 @@
     "criteria": {
       "minecraft:blaze": "2021-12-15 21:17:46 +0100",
       "minecraft:skeleton": "2021-12-05 18:10:30 +0100",
+      "minecraft:spider": "2021-12-18 21:48:22 +0100",
       "minecraft:creeper": "2021-12-05 18:17:26 +0100",
       "minecraft:zombified_piglin": "2021-12-15 21:25:36 +0100",
       "minecraft:wither_skeleton": "2021-12-15 21:48:49 +0100",
@@ -1179,6 +1180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-12-18 21:48:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-12-05 18:05:05 +0100"
@@ -1224,6 +1231,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2021-12-08 21:25:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-12-18 20:28:32 +0100"
     },
     "done": true
   },
@@ -1358,6 +1371,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-12-06 18:34:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-12-18 20:28:18 +0100"
     },
     "done": true
   },
