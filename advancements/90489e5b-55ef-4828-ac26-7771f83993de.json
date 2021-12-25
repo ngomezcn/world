@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-12-20 21:18:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-12-05 18:07:16 +0100"
@@ -548,7 +554,9 @@
       "minecraft:zombified_piglin": "2021-12-15 21:25:36 +0100",
       "minecraft:wither_skeleton": "2021-12-15 21:48:49 +0100",
       "minecraft:piglin": "2021-12-06 12:26:38 +0100",
-      "minecraft:zombie": "2021-12-05 18:09:46 +0100"
+      "minecraft:enderman": "2021-12-23 17:15:40 +0100",
+      "minecraft:zombie": "2021-12-05 18:09:46 +0100",
+      "minecraft:zombie_villager": "2021-12-21 18:49:20 +0100"
     },
     "done": false
   },
@@ -1642,6 +1650,7 @@
     "criteria": {
       "cooked_porkchop": "2021-12-05 18:10:43 +0100",
       "cooked_beef": "2021-12-15 21:17:39 +0100",
+      "pumpkin_pie": "2021-12-20 21:21:49 +0100",
       "carrot": "2021-12-15 21:42:53 +0100"
     },
     "done": false
